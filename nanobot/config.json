@@ -1,0 +1,14 @@
+{
+  "providers": {
+    "custom": {
+      "apiKey": "qwen-code-api-key-secret",
+      "apiBase": "http://localhost:42005/v1"
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": "coder-model",
+      "provider": "custom"
+    }
+  }
+}
