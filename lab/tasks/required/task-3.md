@@ -131,3 +131,4 @@ The agent still can't access logs or traces — only you can, through the UIs. L
 - An observability skill exists and is loaded by the agent.
 - The agent answers "any errors in the last hour?" correctly under both normal and failure conditions.
 - `REPORT.md` contains log excerpts, UI screenshots, and agent responses from all checkpoints.
+cifenvciefvniermvjk
