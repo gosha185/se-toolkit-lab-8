@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl *)",
+      "Bash(docker compose ps)",
+      "Bash(test *)",
+      "Bash(docker compose up *)",
+      "Bash(copy *)",
+      "Bash(git submodule *)",
+      "Bash(docker compose logs *)",
+      "Bash(docker compose build *)",
+      "Bash(docker run *)",
+      "Bash(sed *)",
+      "Bash(uv *)",
+      "Bash(mkdir *)",
+      "Bash(dir *)"
+    ]
+  }
+}
